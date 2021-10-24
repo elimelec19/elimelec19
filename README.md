@@ -1,18 +1,9 @@
-!(https://user-images.githubusercontent.com/82791095/138598779-30918303-dbfd-4ee1-bba4-f17ea4b960ee.jpg)[]
-- 👋 Hi, I’m Arsenia Suero
-- 👀 I’m interested in ...
+👋 Hi, I’m Arsenia Suero
+
+
+![wallpaper-informatica_2](https://user-images.githubusercontent.com/82791095/138599445-106f64f7-877b-4aa0-b5a2-208fce15accf.jpg)
+
 - 🌱 I’m currently learning Linux Administration
-
-
-
-
-
-
-
-
-
-
-
 
    📫 How to reach me 
    
