@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 Please go to my Repository to see all my work!✨✨
 
-[Resume.docx](https://github.com/elimelec19/elimelec19/files/7405945/Resume.docx) 👩‍💻
-
 
 Projects💪👩‍💻💪👩‍💻
 
